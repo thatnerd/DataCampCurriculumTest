@@ -10,7 +10,7 @@ Track Outline
 -------------
 
 1. Deploying a Server on AWS
-2. Deploying a MySQL Datatabase
+2. Deploying a MySQL Datatabase in the Cloud
 3. SQL Basics
 4. Scaling Out with an HDFS Data Store
 5. Introduction to Spark
