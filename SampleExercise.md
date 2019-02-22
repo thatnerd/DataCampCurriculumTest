@@ -29,13 +29,13 @@ Note: there are, in practice, many queries that would work for this; the
 following is merely one of the simpler ones.
 
 ~~~~
-SELECT COUNT(\*) AS courses\_passed
+SELECT COUNT(*) AS courses_passed
 FROM students
-INNER JOIN student\_courses
+INNER JOIN student_courses
         ON student_courses.student_id = students.id
 INNER JOIN courses
         ON student_courses.course_id = courses.id
-WHERE students.last\_name = "Cross"
-  AND students.first\_name = "William"
-  AND student\_courses.passed = true
+WHERE students.last_name = "Cross"
+  AND students.first_name = "William"
+  AND student_courses.passed = true
 ~~~~
