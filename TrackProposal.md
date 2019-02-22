@@ -17,7 +17,7 @@ Track Prerequisites
 Track Outline
 -------------
 
-1. Basics of SQL with MySQL
+1. SQL Basics with MySQL
 2. Deploying a Server on AWS
 3. Deploying a MySQL Datatabase in the Cloud
 4. Scaling Out with an HDFS Data Store
