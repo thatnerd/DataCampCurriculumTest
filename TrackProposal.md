@@ -6,12 +6,19 @@ Track Title
 
 Data Engineering with MySQL, Spark, and Python
 
+Prerequisites
+-------------
+
+* Basic linux fluency
+* Ability to run a VM
+
+
 Track Outline
 -------------
 
-1. Deploying a Server on AWS
-2. Deploying a MySQL Datatabase in the Cloud
-3. SQL Basics
+1. Basics of SQL with MySQL
+2. Deploying a Server on AWS
+3. Deploying a MySQL Datatabase in the Cloud
 4. Scaling Out with an HDFS Data Store
 5. Introduction to Spark
 6. Using a REST API
