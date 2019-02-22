@@ -1,6 +1,10 @@
 Sample Exercise
 ===============
 
+> Note: I never actually tested the solution code, which should be fine for
+> purposes of the assessment I'm doing, but which means that I've probably got
+> broken code in the answer.
+
 Context
 -------
 
