@@ -16,3 +16,5 @@ Time Breakdown
   * The course outline went through multiple drafts as I wrote & delete
     chapters while figuring out scope, which had to get trimmed, a lot (as one
     would expect).
+* 45 minutes: writing the sample problem
+* 15 minutes: polishing just a bit.
