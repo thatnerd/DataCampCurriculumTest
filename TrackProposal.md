@@ -6,11 +6,12 @@ Track Title
 
 Data Engineering with MySQL, Spark, and Python
 
-Prerequisites
--------------
+Track Prerequisites
+-------------------
 
 * Basic linux fluency
-* Ability to run a VM
+* Ability to run a VirtualBox VM or use your own Ubuntu linux VM
+* Basic knowledge of python
 
 
 Track Outline
@@ -20,182 +21,76 @@ Track Outline
 2. Deploying a Server on AWS
 3. Deploying a MySQL Datatabase in the Cloud
 4. Scaling Out with an HDFS Data Store
-5. Introduction to Spark
-6. Using a REST API
+5. Introduction to Apache Spark
+6. REST API Basics
+
 
 Course Descriptions
 -------------------
+
+### SQL Basics with MySQL
+
+#### Marketing Proposal
+
+Spin up your first MSQL daemon and begin reading and writing data to a relational database.
+
+#### Learning Objectives
+
+* Learner will be able to create a mysql database server and connect to it
+* Learner will be able to perform basic read/write operations using the mysql shell
+
 
 ### Deploying a Server on AWS
 
 #### Marketing Proposal
 
-In this course, you'll create an AWS account, spin up a linux server in the cloud, and connect to it from your latop.
+In this course, you'll create an AWS account, spin up a linux server in the cloud, and connect to it from your local machine.
 
 #### Learning Objectives
 
-After completing this course, you will be able to:
+* Learner will be able to create an AWS account
+* Learner will be able to spin up and connect to a server in the cloud
 
-* ... create an AWS account
-* ... spin up a linux server in Amazon's Elastic Comput Cloud (EC2)
-* ... connect to your ec2 instance remotely
-
-#### Prerequisites
-
-* Basic linux fluency
-  * Ability to navigate directory structures
-  * Ability to list files in a directory
-  * Ability to copy or move files from one location to another
-  * Ability to ssh from your laptop or desktop
-
-
-### Deploying a MySQL Datatabase
+### Deploying a MySQL Datatabase in the Cloud
 
 #### Marketing Proposal
 
-PLACEHOLDER
+Deploy a MySQL database with basic security features in place, in the cloud.
 
 #### Learning Objectives
 
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
-
-
-### SQL Basics
-
-#### Marketing Proposal
-
-PLACEHOLDER
-
-#### Learning Objectives
-
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
+* Learner will be able to deploy and remotely connect to a mysql server in the cloud.
 
 
 ### Scaling Out with an HDFS Data Store
 
 #### Marketing Proposal
 
-PLACEHOLDER
+When your data becomes more than your server can handle, scale out to lots of servers with HDFS
 
 #### Learning Objectives
 
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
+* Learner will be able to deploy an HDFS cluster manually in the cloud
 
 
-### SQL Basics
+### Introduction to Apache Spark
 
 #### Marketing Proposal
 
-PLACEHOLDER
+Use Spark with python to navigate and manipulate your data stored in HDFS
 
 #### Learning Objectives
 
-After completing this course, you will be able to:
+* Learner will be able to install spark for an HDFS cluster
+* Learner will be able to perform SQL queries on relational data in HDFS using spark
 
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
-
-
-### Introduction to Spark
+### REST API Basics
 
 #### Marketing Proposal
 
-PLACEHOLDER
+Learn the basics of a REST API and how to use one to read/write to your data store.
 
 #### Learning Objectives
 
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
-
-
-### SQL Basics
-
-#### Marketing Proposal
-
-PLACEHOLDER
-
-#### Learning Objectives
-
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
-
-
-### Using a REST API
-
-#### Marketing Proposal
-
-PLACEHOLDER
-
-#### Learning Objectives
-
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
-
-
-### SQL Basics
-
-#### Marketing Proposal
-
-PLACEHOLDER
-
-#### Learning Objectives
-
-After completing this course, you will be able to:
-
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-* ... PLACEHOLDER
-
-#### Prerequisites
-
-PLACEHOLDER
+* Learner will be able to describe how a REST API works
+* Learner will be able to perform GET, PUT, POST, Patch, and DELETE calls to an API
