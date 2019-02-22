@@ -37,7 +37,7 @@ Spin up your first MSQL daemon and begin reading and writing data to a relationa
 #### Learning Objectives
 
 * Learner will be able to create a mysql database server and connect to it
-* Learner will be able to perform basic read/write operations using the mysql shell
+* Learner will be able to perform basic read/write and aggregation operations using the mysql shell
 
 
 ### Deploying a Server on AWS

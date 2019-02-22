@@ -8,6 +8,7 @@ Chapter 1: Spinning Up and Connecting to a MySQL server
 2. Learner will be able to connect to the MySQL daemon using the mysql shell
 3. Learner will be able to dun a '.sql' script to populate a database
 
+
 Chapter 2: Reading a Table in MySQL 
 -----------------------------------
 
@@ -17,12 +18,14 @@ Chapter 2: Reading a Table in MySQL
 4. Learner will be able to use the LIMIT statement to limit the size of a result set
 
 
-Chapter 3: Joining Data in MySQL
---------------------------------
+Chapter 3: Joining and Aggregating Data in MySQL
+------------------------------------------------
 
 1. Learner will be able to define an inner, left, right, and outer join
 2. Learner will be able to combine data from two tables using an INNER JOIN
 3. Learner will be able to construct a query that will join three tables
+4. Learner will be able to use the aggregation functions COUNT and SUM on a
+   column
 
 
 Chapter 4: Creating and Updating Data in MySQL
