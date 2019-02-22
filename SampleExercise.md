@@ -39,3 +39,10 @@ WHERE students.last_name = "Cross"
   AND students.first_name = "William"
   AND student_courses.passed = true
 ~~~~
+
+Learning Objectives Tested
+--------------------------
+
+* Learner will be able to combine data from three tables and filter the results.
+* Learner will be able to use the `COUNT` aggregation function to count the
+  number of records returned by a query.
